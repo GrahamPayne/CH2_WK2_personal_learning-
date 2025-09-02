@@ -30,3 +30,31 @@ print(math.pi)
 print(math.sqrt(25))
 print(math.pow(5, 2))
 print(5 ** 2)
+
+#part 5
+
+n + 1
+
+print(n+1)
+
+
+#part 6
+
+print("The value of pi is approximately", math.pi)
+print("any", "number", "of", "arguments")
+
+#part 7
+
+#number of seconds in 42 min, 42 sec
+
+seconds = 42 * 60 + 41
+
+miles = 10 / 1.61  # 10 kilometes in miles
+
+#part 8 Debugging
+
+#   76trombones = 'big parade'   # Syntax error
+#   print('126' / 3)             # Runtime error
+#   print(1 + 3 / 2)             # Semantic error (not average)
+
+
